@@ -1,2 +1,11 @@
-# cocoapods_prebuild
-a cocoa pods extension that pre-builds your dependencies so you don't have to rebuild them with your code
+# cocoapods-prebuild
+
+A description of cocoapods-prebuild.
+
+## Installation
+
+    $ gem install cocoapods-prebuild
+
+## Usage
+
+    $ pod spec prebuild POD_NAME
