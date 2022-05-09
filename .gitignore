@@ -38,6 +38,9 @@ build-iPhoneSimulator/
 /doc/
 /rdoc/
 
+## Mac files
+**/.DS_Store
+
 ## Environment normalization:
 # /.bundle/
 /vendor/bundle
