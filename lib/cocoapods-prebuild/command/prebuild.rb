@@ -24,7 +24,7 @@ module Pod
         Longer description of cocoapods-prebuild.
       DESC
 
-      self.arguments = 'NAME'
+      self.arguments = []
 
       def initialize(argv)
         @name = argv.shift_argument
